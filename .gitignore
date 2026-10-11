@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js and Hardhat
+node_modules/
+artifacts/build-info/
+cache/
+coverage/
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
